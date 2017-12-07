@@ -1,0 +1,23 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "hangman game in node",
+  "main": "hangman.js",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leogaley/hangman.git"
+  },
+  "author": "Leo Galey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leogaley/hangman/issues"
+  },
+  "homepage": "https://github.com/leogaley/hangman#readme"
+}
